@@ -1,0 +1,7 @@
+{
+  "name": "stockApp",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}
